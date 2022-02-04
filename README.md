@@ -12,7 +12,11 @@ The weather database contains 712 City IDs obtained through the Open Weather Map
 The vacation search database contains 156 city IDs where the minimum temperature is 75 degrees fahrenheit and the maximum temperature is 90 degrees fahrenheit, as well as the City name, Country, Actual Max Temperature, Current Weather Description, Lat, Lng, and suggested Hotel names for users to consider. For reference, see WeatherPy_vacation.csv located in the Vacation_Search folder.
 
 ## Vacation itinerary
-A sample travel itenerary was created through the Google Directions API to map a route between five cities. ![WeatherPy_travel_map](https://user-images.githubusercontent.com/95371617/152474339-0eeffe27-4cab-44b7-a0ab-ee69d0bff2cb.png)
+A sample travel itenerary was created through the Google Directions API to map a route between five cities. 
 
-An additional sample travel itenerary was created to show the recommended Hotel name, City, Country, and Current Weather for the selected cities on the users route. ![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/95371617/152474490-fb5b5ccf-59e0-49aa-897f-302075af79f1.png)
+![WeatherPy_travel_map](https://user-images.githubusercontent.com/95371617/152474339-0eeffe27-4cab-44b7-a0ab-ee69d0bff2cb.png)
+
+An additional sample travel itenerary was created to show the recommended Hotel name, City, Country, and Current Weather for the selected cities on the users route. 
+
+![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/95371617/152474490-fb5b5ccf-59e0-49aa-897f-302075af79f1.png)
 
