@@ -1,7 +1,7 @@
 # World_Weather_Analysis
 
 ## Purpose
-The purpose of this analysis was to build the recommended changes from the beta testers for the 'PlanMyTrip App.' These changes include adding the weather description to the weather data and allowing users to use input statements to filter yheir data for individual weather preferences, which they will use to identify potential travel destinations and nearby hotels. Once these changes have been implemented, the beta testers/users will have the ability to choose four cities to create their ideal travel itinerary. A sample travel itinerary can be seen below:
+The purpose of this analysis was to build the recommended changes from the beta testers for the 'PlanMyTrip App.' These changes include adding the weather description to the weather data and allowing users to use input statements to filter their data for individual weather preferences, which they will use to identify potential travel destinations and nearby hotels. Once these changes have been implemented, the beta testers/users will have the ability to choose four cities to create their ideal travel itinerary. A sample travel itinerary can be seen below:
 
 ![WeatherPy_travel_map](https://user-images.githubusercontent.com/95371617/152472613-4ac07e71-ed73-498f-83b2-aa22fdc464fc.png)
 
